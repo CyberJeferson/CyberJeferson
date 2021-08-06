@@ -17,13 +17,16 @@
   
    <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1Ea0rKFZetvXEduraATRIiyZjhr5I_8Hbw&usqp=CAU" alt="Powershell" width="50" height="50" />
   
-   <img style ="border-radius: 25px" src="https://user-images.githubusercontent.com/63682724/128554180-6fb5b482-7973-4044-87de-34ab8ba7682c.png" alt="Java" width="50" height="50" />
+   <img style ="border-radius: 25px" src="https://user-images.githubusercontent.com/63682724/128565461-a2319e95-229d-4e22-9152-c4b9e935c11e.png" alt="Java" width="50" height="50" />
    <img style ="border-radius: 25px" src="https://user-images.githubusercontent.com/63682724/128554016-a81df845-ec72-4cdc-a7e4-0f3be6fa57df.png" alt="Visual Basic" width="50" height="50" />
    <img src="https://user-images.githubusercontent.com/63682724/128550744-899838ee-c1e1-4f02-b2ce-7e4e39fa4e18.png" alt="C++" width="50" height="50" />
    <img src="https://user-images.githubusercontent.com/63682724/128553726-b0d25b15-701a-4620-a4f6-c8385a683406.png" alt="Delphi" width="50" height="50" />
   
  <img  src="https://camo.githubusercontent.com/01920dc8ff66bdb2cd3bbc4847b3f88c16b706a24a3e2ee8c22b51eace241460/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f3132303070782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" alt="JavaScript" width="50" height="50" />
 	</a>
+	
+	
+
 </div>
 
 
