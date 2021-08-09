@@ -38,14 +38,11 @@
 	<h1>Projetos</h1>
 <figure>	
 <a href="https://github.com/CyberJeferson/Game_Reciclagem_APS">	
-<figcaption>Game que ensina reciclar (java)</figcaption>
 <img src="https://github.com/CyberJeferson/Game_Reciclagem_APS/raw/main/projeto.gif" width="150px" height = "200px"/>
 </a>
 </figure>
-<br>
 <figure>
 <a href="https://github.com/CyberJeferson/Pojeto-soquete-de-rede-exemplo-Csharp">
-<figcaption>Sistema Polícia Ambiental(Socket server, Socket client)</figcaption>
 <img src="https://github.com/CyberJeferson/Pojeto-soquete-de-rede-exemplo-Csharp/raw/main/img/sockgif.gif" width="300px" height = "150px"/>
 </a>
 </figure>	
