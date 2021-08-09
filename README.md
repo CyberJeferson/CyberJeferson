@@ -18,8 +18,7 @@
 
    <img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1Ea0rKFZetvXEduraATRIiyZjhr5I_8Hbw&usqp=CAU" alt="Powershell" width="50" height="50" />
   
-   <img style ="border-radius: 25px" src="https://user-images.githubusercontent.com/63682724/128651234-ceacea34-5420-438d-a3e3-3814b41203c9.png" alt="Java" width="50" height="50" />
-			
+   <img style ="border-radius: 25px" src="https://user-images.githubusercontent.com/63682724/128651234-ceacea34-5420-438d-a3e3-3814b41203c9.png" alt="Java" width="50" height="50" />			
 
    <img style ="border-radius: 25px" src="https://user-images.githubusercontent.com/63682724/128554016-a81df845-ec72-4cdc-a7e4-0f3be6fa57df.png" alt="Visual Basic" width="50" height="50" />
    <img src="https://user-images.githubusercontent.com/63682724/128651088-749ef694-b7ea-4a13-8abd-249bae0f9fad.png" alt="C++" width="50" height="50" />
@@ -37,8 +36,23 @@
 </div>
 <div>
 	<h1>Projetos</h1>
-<a href="https://github.com/CyberJeferson/Game_Reciclagem_APS">	<img src="https://github.com/CyberJeferson/Game_Reciclagem_APS/raw/main/projeto.gif" width="150px" height = "200px"/> </a>
-	</div>
+<figure>	
+<a href="https://github.com/CyberJeferson/Game_Reciclagem_APS">	<img src="https://github.com/CyberJeferson/Game_Reciclagem_APS/raw/main/projeto.gif" width="150px" height = "200px"/>
+	<br>
+<figcaption>Game que ensina reciclar (java)</figcaption>
+</a>
+
+</figure>
+
+<figure>
+<a href="https://github.com/CyberJeferson/Pojeto-soquete-de-rede-exemplo-Csharp"><img src="https://github.com/CyberJeferson/Pojeto-soquete-de-rede-exemplo-Csharp/raw/main/img/sockgif.gif" width="300px" height = "150px"/>
+<figcaption>Sistema Polícia Ambiental(Socket server, Socket client)</figcaption>
+	</a>
+</figure>	
+
+
+
+</div>
 
 <div>
   <h1>Redes sociais</<h1>
