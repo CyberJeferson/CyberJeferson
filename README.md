@@ -43,7 +43,7 @@
 <div>
   <h1>Redes sociais</<h1>
     <br>
- <a href="https://www.youtube.com/channel/UCz-iNlr68eMM1N5vcsBSJrw"><img src="https://user-images.githubusercontent.com/63682724/128556361-bfc5907f-1a86-41a7-a376-53f7dba317d2.png" alt="Youtube" width="50" height="50" />Game Reciclagem</a>
+ <a href="https://www.youtube.com/channel/UCz-iNlr68eMM1N5vcsBSJrw"><img src="https://user-images.githubusercontent.com/63682724/128556361-bfc5907f-1a86-41a7-a376-53f7dba317d2.png" alt="Youtube" width="50" height="50" /></a>
 <a href="https://www.linkedin.com/in/jeferson-oliveira-8335051b6/"><img style="border-style: none;" src="https://user-images.githubusercontent.com/63682724/128556484-2ee80436-9dca-4876-8fd8-72bf2c312171.png" alt="Linkedin" width="50" height="50" /></a>
 <p><strong>E-mail: <a href="mailto:contact.jeferson.oliveira@gmail.com">contact.jeferson.oliveira@gmail.com</a></strong></p>
 
