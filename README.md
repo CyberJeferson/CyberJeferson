@@ -39,8 +39,9 @@
 
 
 </div>
+	
 <div>
-	<h1>🖥️ Projects</h1>
+	<h1>🗺️ Projects</h1>
 <figure>	
 <a href="https://github.com/CyberJeferson/Game_Reciclagem_APS">	
 <img src="https://github.com/CyberJeferson/Game_Reciclagem_APS/raw/main/projeto.gif" width="150px" height = "200px"/>
