@@ -11,7 +11,7 @@
 
 <div>
 <h1>🏆 Trophy</h1>
-<img  src="https://github-profile-trophy.vercel.app/?username=CyberJeferson&theme=onedark&no-frame=true&margin-w=30" alt="Trofeus"/>
+<img  src="https://github-profile-trophy.vercel.app/?username=CyberJeferson&theme=gruvbox&no-frame=true&margin-w=50&no-bg=true" alt="Trofeus"/>
 </div>	
 <div>
 <h1>🔨 Skills</h1>
