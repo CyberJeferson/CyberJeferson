@@ -10,7 +10,8 @@
 
 
 <div>
-  <h1>Skills</h1>
+	
+  <h1>🔨 Skills</h1>
 		<a href="https://github.com/CyberJeferson">
  <img src="https://camo.githubusercontent.com/4612a0901570b37d248eaa1cddd08b8d8e424581c58bd17cecd4bb9b9119b9e9/68747470733a2f2f67726f77697a2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323032302f30382f6b697373706e672d632d70726f6772616d6d696e672d6c616e67756167652d6c6f676f2d6d6963726f736f66742d76697375616c2d737475642d61746c61732d706f7274666f6c696f2d35623839393139326437633630302e313632383537313131353335373432333534383833382e706e67" alt="C sharp, C#" width="50" height="50" />
 <img src="https://user-images.githubusercontent.com/63682724/128651162-87134254-6df7-4551-aad7-ecdd7c0f6f53.png" alt="Python" width="50" height="50" />
@@ -35,7 +36,7 @@
 
 </div>
 <div>
-	<h1>Projetos</h1>
+	<h1>🖥️ Projects</h1>
 <figure>	
 <a href="https://github.com/CyberJeferson/Game_Reciclagem_APS">	
 <img src="https://github.com/CyberJeferson/Game_Reciclagem_APS/raw/main/projeto.gif" width="150px" height = "200px"/>
@@ -52,11 +53,11 @@
 </div>
 
 <div>
-  <h1>Redes sociais</<h1>
+  <h1>🌎Social networks</<h1>
     <br>
  <a href="https://www.youtube.com/channel/UCz-iNlr68eMM1N5vcsBSJrw"><img src="https://user-images.githubusercontent.com/63682724/128556361-bfc5907f-1a86-41a7-a376-53f7dba317d2.png" alt="Youtube" width="50" height="50" /></a>
 <a href="https://www.linkedin.com/in/jeferson-oliveira-8335051b6/"><img style="border-style: none;" src="https://user-images.githubusercontent.com/63682724/128556484-2ee80436-9dca-4876-8fd8-72bf2c312171.png" alt="Linkedin" width="50" height="50" /></a>
-<p><strong>E-mail: <a href="mailto:contact.jeferson.oliveira@gmail.com">contact.jeferson.oliveira@gmail.com</a></strong></p>
+
 
 
 </div>
