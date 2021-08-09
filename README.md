@@ -10,6 +10,7 @@
 
 
 <div>
+	
 <h1>🏆 Trophy</h1>
 <img  src="https://github-profile-trophy.vercel.app/?username=CyberJeferson&theme=gruvbox&no-frame=true&margin-w=50&no-bg=true" alt="Trofeus"/>
 </div>	
@@ -56,7 +57,7 @@
 </div>
 
 <div>
-  <h1>🌎Social networks</<h1>
+  <h1>🗣️ Social networks</<h1>
     <br>
  <a href="https://www.youtube.com/channel/UCz-iNlr68eMM1N5vcsBSJrw"><img src="https://user-images.githubusercontent.com/63682724/128556361-bfc5907f-1a86-41a7-a376-53f7dba317d2.png" alt="Youtube" width="50" height="50" /></a>
 <a href="https://www.linkedin.com/in/jeferson-oliveira-8335051b6/"><img style="border-style: none;" src="https://user-images.githubusercontent.com/63682724/128556484-2ee80436-9dca-4876-8fd8-72bf2c312171.png" alt="Linkedin" width="50" height="50" /></a>
