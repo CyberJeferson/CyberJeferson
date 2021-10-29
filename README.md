@@ -3,7 +3,7 @@
 
 <div>
 <a href="https://github.com/CyberJeferson">
-<img src="https://github-readme-stats.vercel.app/api?username=CyberJeferson&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Jeferson" />  
+<img src="https://github-readme-stats.vercel.app/api?username=CyberJeferson&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberJeferson&layout=compact&langs_count=7&theme=tokyonight" alt="Lang" /> 
 </a>
 </div>
@@ -18,7 +18,7 @@
 </div>	
 <div>
 <h1>🔨 Skills</h1>
-		<a href="https://github.com/CyberJeferson">
+<a href="https://github.com/CyberJeferson">
  <img src="https://camo.githubusercontent.com/4612a0901570b37d248eaa1cddd08b8d8e424581c58bd17cecd4bb9b9119b9e9/68747470733a2f2f67726f77697a2e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323032302f30382f6b697373706e672d632d70726f6772616d6d696e672d6c616e67756167652d6c6f676f2d6d6963726f736f66742d76697375616c2d737475642d61746c61732d706f7274666f6c696f2d35623839393139326437633630302e313632383537313131353335373432333534383833382e706e67" alt="C sharp, C#" width="40" height="40" />
 <img src="https://user-images.githubusercontent.com/63682724/128651162-87134254-6df7-4551-aad7-ecdd7c0f6f53.png" alt="Python" width="40" height="40" />
 
