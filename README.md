@@ -44,22 +44,7 @@
 
 </div>
 	
-<div>
-	<h1>📥 Repos</h1>
-<figure>	
-<a href="https://github.com/CyberJeferson/Game_Reciclagem_APS">	
-<img src="https://github.com/CyberJeferson/Game_Reciclagem_APS/raw/main/projeto.gif" width="150px" height = "200px"/>
-</a>
-</figure>
-<figure>
-<a href="https://github.com/CyberJeferson/Pojeto-soquete-de-rede-exemplo-Csharp">
-<img src="https://github.com/CyberJeferson/Pojeto-soquete-de-rede-exemplo-Csharp/raw/main/img/sockgif.gif" width="300px" height = "150px"/>
-</a>
-</figure>	
 
-
-
-</div>
 
 <div>
   <h1>🗣️ Social networks</<h1>
