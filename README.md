@@ -13,7 +13,7 @@
 	
 <h1>🏆 Trophy</h1>
 <a href="#">	
-<img  src="https://hacked-github-stat-trophies.vercel.app/?username=CyberJeferson&theme=gruvbox&no-frame=true&margin-w=50&no-bg=true" alt="Trofeus"/>
+<img  src="https://github-trophies.vercel.app/?username=cyberjeferson&theme=gruvbox&no-frame=true&margin-w=50&no-bg=true" alt="Trofeus"/>
 </a>
 </div>	
 <div>
