@@ -19,7 +19,7 @@
 <div>
 <h1>🔨 Skills</h1>
 
-  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,angular,html,css,bootstrap,git,docker,rabbitmq,java,python,c,perl,regex,androidstudio,arduino,bash,cs,debian,linux,mysql,npm,ts,vscode,windows,raspberrypi,nestjs&perline=10)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,js,ts,angular,html,css,bootstrap,git,docker,java,python,c,perl,regex,androidstudio,arduino,bash,debian,linux,mysql,npm,vscode,windows,raspberrypi,nestjs&perline=10)](https://skillicons.dev)
 
 
 	
