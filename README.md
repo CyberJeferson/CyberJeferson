@@ -28,14 +28,19 @@
 
 </div>
 	
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/63682724?v=4"
+    />
+    <p>Jeferson Oliveira<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/CyberJeferson">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/jeferson-oliveira-8335051b6">LinkedIn
+</a>
+&nbsp;|&nbsp;</p>
+</p>
 
-
-<div>
-  <h1>🗣️ Social networks</<h1>
-    <br>
- <a href="https://www.youtube.com/channel/UCz-iNlr68eMM1N5vcsBSJrw"><img src="https://user-images.githubusercontent.com/63682724/128556361-bfc5907f-1a86-41a7-a376-53f7dba317d2.png" alt="Youtube" width="50" height="50" /></a>
-<a href="https://www.linkedin.com/in/jeferson-oliveira-8335051b6/"><img style="border-style: none;" src="https://user-images.githubusercontent.com/63682724/128556484-2ee80436-9dca-4876-8fd8-72bf2c312171.png" alt="Linkedin" width="50" height="50" /></a>
-
-
-
-</div>
